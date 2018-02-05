@@ -37,7 +37,9 @@
   "bugs": "https://github.com/s3u/JSONPath/issues/",
   "homepage": "https://github.com/s3u/JSONPath",
   "main": "./lib/jsonpath",
-  "dependencies": {},
+  "dependencies": {
+    "is-node": "^1.0.2"
+  },
   "engines": {
     "node": ">=0.8"
   },
